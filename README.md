@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--🔭 I'm Alishba in my sophmore year of Financial Technology and Part-Time STEM Trainer.
+🔭 I'm Alishba in my sophmore year of Financial Technology and Part-Time STEM Trainer.
 - 🌱 I’m currently learning  Machine learning and Data Analysis.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-🔭 I'm Alishba in my sophmore year of Financial Technology and Part-Time STEM Trainer.
+- 🌱 I’m currently learning  Machine learning and Data Analysis.
