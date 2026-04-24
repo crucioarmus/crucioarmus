@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm  Alishba ,Sophomore in FinTech exploring Machine Learning and AI through hands-on projects, with interest in applications across finance and healthcare.
+I'm  Alishba ,sophomore in FinTech exploring Machine Learning and AI through hands-on projects, with interest in applications across finance and healthcare.
