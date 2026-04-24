@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi!
+
 I'm  Alishba ,Sophomore in FinTech exploring Machine Learning and AI through hands-on projects, with interest in applications across finance and healthcare.
