@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m Alishba, a sophomore in Financial Technology and a part-time STEM trainer. I’m currently learning Machine Learning and Data Analysis.
+Hi!
+I'm  Alishba ,Sophomore in FinTech exploring Machine Learning and AI through hands-on projects, with interest in applications across finance and healthcare.
